@@ -1,0 +1,50 @@
+[
+  {
+    "id": "be4d0ffc-92db-4ad6-a29e-e5db38759ac0",
+    "name": "Personal"
+  },
+  {
+    "id": "3e4f5a92-7eb7-4430-b38e-14f64cb90286",
+    "name": "Archive"
+  },
+  {
+    "id": "60eb88ed-1707-4ef5-9379-a361c212328a",
+    "name": "Marketing"
+  },
+  {
+    "id": "6bdc2053-e909-4872-871d-ab95349eb172",
+    "name": "Receipts"
+  },
+  {
+    "id": "4679204a-6ca2-46b9-b5bf-4e9cbb4058a9",
+    "name": "Social"
+  },
+  {
+    "id": "9fc81d88-e15c-45fc-9b44-a4ec91f4ba42",
+    "name": "Projects"
+  },
+  {
+    "id": "ae8ffcee-85e7-4364-b335-1f7230125a00",
+    "name": "Clients"
+  },
+  {
+    "id": "8dfe395b-494b-4dc0-a30a-77721f736082",
+    "name": "Support"
+  },
+  {
+    "id": "d1685812-ed38-4ca6-8937-d1d0517bb39c",
+    "name": "Trash"
+  },
+  {
+    "id": "090a8791-8c0c-4bdd-bbb3-19f18f6553b3",
+    "name": "Updates"
+  },
+  {
+    "id": "e0fcd69b-690b-4fd2-b9a7-a7c4d4d2bcab",
+    "name": "Inbox"
+  },
+  {
+    "id": "eea70112-3ed4-4199-bf53-557fc1effc21",
+    "name": "Reports"
+  }
+]

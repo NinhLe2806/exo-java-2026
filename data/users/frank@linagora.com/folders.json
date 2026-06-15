@@ -1,0 +1,50 @@
+[
+  {
+    "id": "99346bc7-d0fd-4ca8-879c-4eceb485bdc1",
+    "name": "Clients"
+  },
+  {
+    "id": "327f8f64-997f-4688-b00f-e5ccec584bd8",
+    "name": "Archive"
+  },
+  {
+    "id": "2ec0dd31-3ddb-463e-8079-3b430e5ea0ba",
+    "name": "Promotions"
+  },
+  {
+    "id": "b0562d4d-9249-4114-b544-637d4faec1f0",
+    "name": "Social"
+  },
+  {
+    "id": "8d3036a6-8b0f-4a45-a54a-7bfcc2bfed61",
+    "name": "Work"
+  },
+  {
+    "id": "daf5bfb9-9eaa-4d1a-a89f-7889aa586849",
+    "name": "Projects"
+  },
+  {
+    "id": "bc6045c4-2942-41b4-ba57-d3001be0ab50",
+    "name": "Spam"
+  },
+  {
+    "id": "66903d53-75d2-47b2-a9ce-75543064e0c4",
+    "name": "Newsletters"
+  },
+  {
+    "id": "c520cf62-c510-4b7e-838e-5e7db918d8e6",
+    "name": "Marketing"
+  },
+  {
+    "id": "f27e9d1d-0c31-4b19-b148-df0bfa188c8f",
+    "name": "Finance"
+  },
+  {
+    "id": "d90c994d-7fbd-4f5a-b206-617fdb88389c",
+    "name": "Sent"
+  },
+  {
+    "id": "e5f3bcb3-98a8-46f9-add7-3af2d6af1c76",
+    "name": "Drafts"
+  }
+]

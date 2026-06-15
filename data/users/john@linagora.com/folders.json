@@ -1,0 +1,62 @@
+[
+  {
+    "id": "9d68e13e-fa7e-476e-b4d0-a80aec399be2",
+    "name": "Trash"
+  },
+  {
+    "id": "ef17f006-a454-46ee-8ab8-8fa13629797c",
+    "name": "Inbox"
+  },
+  {
+    "id": "55cc5502-7237-4e5c-b4da-4d4aebca58e0",
+    "name": "Receipts"
+  },
+  {
+    "id": "19d4760f-5e3d-42a0-b6f1-42bbd65bb15f",
+    "name": "Personal"
+  },
+  {
+    "id": "848a58b6-8426-4074-a10e-415338d0faa8",
+    "name": "Newsletters"
+  },
+  {
+    "id": "af4b5663-4022-4795-8365-e769bf217819",
+    "name": "Drafts"
+  },
+  {
+    "id": "6cd46d22-1683-4f5a-a0bf-6c2f4c307a00",
+    "name": "Clients"
+  },
+  {
+    "id": "0c79cf26-681f-4e47-8c33-b0d7d5ba1dd0",
+    "name": "Sent"
+  },
+  {
+    "id": "56f36ce8-87d4-410d-a1ef-aa46f3de1c70",
+    "name": "Projects"
+  },
+  {
+    "id": "01797ed7-56b8-4681-add1-fdac1244963a",
+    "name": "Social"
+  },
+  {
+    "id": "830f9445-fd85-4f2f-b0d4-4c1c3e5e11e8",
+    "name": "Finance"
+  },
+  {
+    "id": "8b30c308-c277-4315-8f41-55cc589ed93f",
+    "name": "Work"
+  },
+  {
+    "id": "ef0e56cd-a607-4b3f-845b-316594182ae1",
+    "name": "Updates"
+  },
+  {
+    "id": "a85526e8-fa85-46de-8b4c-cbe17bceccbe",
+    "name": "Support"
+  },
+  {
+    "id": "eaa8cf8a-23ad-4739-af83-7775e87e189d",
+    "name": "Reports"
+  }
+]

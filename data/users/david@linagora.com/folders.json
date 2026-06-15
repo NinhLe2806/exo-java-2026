@@ -1,0 +1,38 @@
+[
+  {
+    "id": "d15aafc3-65a6-4759-a6fd-48f80fc45bfe",
+    "name": "Sent"
+  },
+  {
+    "id": "43e70492-32ca-4be3-937a-04a985b0af9f",
+    "name": "Marketing"
+  },
+  {
+    "id": "75484438-6ec7-49b9-8ca2-11ea8c68572c",
+    "name": "Social"
+  },
+  {
+    "id": "2f1e967b-b5bb-483b-a24b-8906f487cdda",
+    "name": "Trash"
+  },
+  {
+    "id": "46ac1372-0923-41e8-9c46-9de9180b9b77",
+    "name": "Finance"
+  },
+  {
+    "id": "d765d5a9-cdb0-453f-8b2f-bebfe387c3b5",
+    "name": "Promotions"
+  },
+  {
+    "id": "55ee7384-62c8-4efc-be75-555cc845fbda",
+    "name": "Receipts"
+  },
+  {
+    "id": "9966cd66-aa65-4fe4-997d-e294157b659d",
+    "name": "Spam"
+  },
+  {
+    "id": "bed33628-44fc-4bda-a549-edb545dadda9",
+    "name": "Projects"
+  }
+]

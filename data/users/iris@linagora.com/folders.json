@@ -1,0 +1,58 @@
+[
+  {
+    "id": "0d8bf570-e6f2-4911-b00a-471fc1908f35",
+    "name": "Projects"
+  },
+  {
+    "id": "b8d00c1d-1ef5-406c-a1b6-bde2bb627a4b",
+    "name": "Work"
+  },
+  {
+    "id": "5063ec7d-716b-4901-9904-4da7179778b4",
+    "name": "Support"
+  },
+  {
+    "id": "a50a65b1-8d10-45fe-a589-5154210f3436",
+    "name": "Finance"
+  },
+  {
+    "id": "9d606d4d-3a95-451c-8bf0-7a70cdd2908c",
+    "name": "Marketing"
+  },
+  {
+    "id": "3dc1dc4f-6b36-4a56-98ad-d63996bcae09",
+    "name": "Drafts"
+  },
+  {
+    "id": "988fda95-ad26-43d4-87fe-739cb89e295d",
+    "name": "Spam"
+  },
+  {
+    "id": "15882d89-3d84-4b0f-b209-0d48ff2a8ba9",
+    "name": "Social"
+  },
+  {
+    "id": "7f921d23-321f-495f-8a94-2ae83a6e5bcd",
+    "name": "Trash"
+  },
+  {
+    "id": "fd41180c-8279-4fe7-9194-1b1b95aed0ff",
+    "name": "Receipts"
+  },
+  {
+    "id": "c0af219f-f19d-403c-b015-64fc1143fa61",
+    "name": "Promotions"
+  },
+  {
+    "id": "ab35b386-11cd-409e-9367-659723d16627",
+    "name": "Reports"
+  },
+  {
+    "id": "8e008f50-eebb-4dce-af44-0029be4bb4c7",
+    "name": "Updates"
+  },
+  {
+    "id": "ebbb2998-a079-48bb-b949-43fe42179f04",
+    "name": "Travel"
+  }
+]

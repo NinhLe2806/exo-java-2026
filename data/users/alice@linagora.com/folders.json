@@ -1,0 +1,34 @@
+[
+  {
+    "id": "3ad122cb-a9a7-4571-914d-5e3c24d92714",
+    "name": "Personal"
+  },
+  {
+    "id": "85fdf358-910e-4b2d-8863-184c3feb6c3a",
+    "name": "Newsletters"
+  },
+  {
+    "id": "6037823b-5992-4dc2-8b22-185dd6489704",
+    "name": "Inbox"
+  },
+  {
+    "id": "be733c8c-d25d-4260-af50-5169f2ef1d81",
+    "name": "Work"
+  },
+  {
+    "id": "dc948503-adeb-445e-82dd-1e2587025493",
+    "name": "Reports"
+  },
+  {
+    "id": "76ffedd0-5f3a-4cae-84d0-74b014c3b85e",
+    "name": "Trash"
+  },
+  {
+    "id": "7a01f555-73d4-4bfb-a771-7af07ba3096f",
+    "name": "Promotions"
+  },
+  {
+    "id": "c07660dd-7ad5-4546-9717-1bcc82de049f",
+    "name": "Travel"
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "id": "9d68e13e-fa7e-476e-b4d0-a80aec399be2",
+    "user": "john@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "ef17f006-a454-46ee-8ab8-8fa13629797c",
+    "user": "john@linagora.com",
+    "name": "Inbox"
+  },
+  {
+    "id": "55cc5502-7237-4e5c-b4da-4d4aebca58e0",
+    "user": "john@linagora.com",
+    "name": "Wrong name"
+  },
+  {
+    "id": "19d4760f-5e3d-42a0-b6f1-42bbd65bb15f",
+    "user": "john@linagora.com",
+    "name": "Personal"
+  },
+  {
+    "id": "848a58b6-8426-4074-a10e-415338d0faa8",
+    "user": "john@linagora.com",
+    "name": "Newsletters"
+  },
+  {
+    "id": "af4b5663-4022-4795-8365-e769bf217819",
+    "user": "john@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "6cd46d22-1683-4f5a-a0bf-6c2f4c307a00",
+    "user": "john@linagora.com",
+    "name": "Clients"
+  },
+  {
+    "id": "0c79cf26-681f-4e47-8c33-b0d7d5ba1dd0",
+    "user": "john@linagora.com",
+    "name": "Sent"
+  },
+  {
+    "id": "56f36ce8-87d4-410d-a1ef-aa46f3de1c70",
+    "user": "john@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "01797ed7-56b8-4681-add1-aaaaaaaaaaaa",
+    "user": "john@linagora.com",
+    "name": "Social"
+  },
+  {
+    "id": "830f9445-fd85-4f2f-b0d4-4c1c3e5e11e8",
+    "user": "john@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "8b30c308-c277-4315-8f41-55cc589ed93f",
+    "user": "john@linagora.com",
+    "name": "Work"
+  },
+  {
+    "id": "ef0e56cd-a607-4b3f-845b-316594182ae1",
+    "user": "john@linagora.com",
+    "name": "Updates"
+  },
+  {
+    "id": "a85526e8-fa85-46de-8b4c-cbe17bceccbe",
+    "user": "john@linagora.com",
+    "name": "Support"
+  },
+  {
+    "id": "eaa8cf8a-23ad-4739-af83-7775e87e189d",
+    "user": "john@linagora.com",
+    "name": "Reports"
+  },
+  {
+    "id": "3ad122cb-a9a7-4571-914d-5e3c24d92714",
+    "user": "alice@linagora.com",
+    "name": "Personal"
+  },
+  {
+    "id": "85fdf358-910e-4b2d-8863-184c3feb6c3a",
+    "user": "alice@linagora.com",
+    "name": "Newsletters"
+  },
+  {
+    "id": "6037823b-5992-4dc2-8b22-185dd6489704",
+    "user": "alice@linagora.com",
+    "name": "Inbox"
+  },
+  {
+    "id": "be733c8c-d25d-4260-af50-5169f2ef1d81",
+    "user": "alice@linagora.com",
+    "name": "Work"
+  },
+  {
+    "id": "dc948503-adeb-445e-82dd-1e2587025493",
+    "user": "alice@linagora.com",
+    "name": "Reports"
+  },
+  {
+    "id": "76ffedd0-5f3a-4cae-84d0-74b014c3b85e",
+    "user": "alice@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "7a01f555-73d4-4bfb-a771-7af07ba3096f",
+    "user": "alice@linagora.com",
+    "name": "Promotions"
+  },
+  {
+    "id": "c07660dd-7ad5-4546-9717-1bcc82de049f",
+    "user": "alice@linagora.com",
+    "name": "Travel"
+  },
+  {
+    "id": "f729d07b-eebf-474d-a73e-110a5b7e4be5",
+    "user": "bob@linagora.com",
+    "name": "Inbox"
+  },
+  {
+    "id": "66618b4b-faa0-432d-888c-2eef4b742cc7",
+    "user": "bob@linagora.com",
+    "name": "Archive"
+  },
+  {
+    "id": "7a29df1e-dc89-4e8a-8834-c75272a6f1c3",
+    "user": "bob@linagora.com",
+    "name": "Reports"
+  },
+  {
+    "id": "37fe2f47-9cdd-47ad-b58d-d01bc844e01f",
+    "user": "bob@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "3fc9e99a-aab7-4a7f-90d7-a104e8d6a6f7",
+    "user": "bob@linagora.com",
+    "name": "Receipts"
+  },
+  {
+    "id": "9d3d8ca0-3b8d-4faa-8513-82f711484e64",
+    "user": "bob@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "cd4d8601-da8e-4525-8c34-bc126f113854",
+    "user": "bob@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "a070da85-c717-4001-95e4-aa189b2b9e64",
+    "user": "bob@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "5ed26970-5284-4e55-ab8a-526d845d9b5a",
+    "user": "bob@linagora.com",
+    "name": "Updates"
+  },
+  {
+    "id": "80b3f2f8-6cd4-464b-99a2-d69b811836fa",
+    "user": "clara@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "495dde1f-0d37-43ff-af78-10aeaee9ba38",
+    "user": "clara@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "d12f5a4a-a15b-41c2-ab9b-4d3622f88437",
+    "user": "clara@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "36fda6ff-32bc-4e1c-b594-4ce4b769d42a",
+    "user": "clara@linagora.com",
+    "name": "Clients"
+  },
+  {
+    "id": "6b20088e-8153-477d-9639-ca15c35cf85a",
+    "user": "clara@linagora.com",
+    "name": "Newsletters"
+  },
+  {
+    "id": "56b35068-2603-4e17-83cc-05ae3558635c",
+    "user": "clara@linagora.com",
+    "name": "Travel"
+  },
+  {
+    "id": "d15aafc3-65a6-4759-a6fd-48f80fc45bfe",
+    "user": "david@linagora.com",
+    "name": "Sent"
+  },
+  {
+    "id": "43e70492-32ca-4be3-937a-04a985b0af9f",
+    "user": "david@linagora.com",
+    "name": "Marketing"
+  },
+  {
+    "id": "2f1e967b-b5bb-483b-a24b-8906f487cdda",
+    "user": "david@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "46ac1372-0923-41e8-9c46-9de9180b9b77",
+    "user": "david@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "d765d5a9-cdb0-453f-8b2f-bebfe387c3b5",
+    "user": "david@linagora.com",
+    "name": "Promotions"
+  },
+  {
+    "id": "55ee7384-62c8-4efc-be75-555cc845fbda",
+    "user": "david@linagora.com",
+    "name": "Receipts"
+  },
+  {
+    "id": "9966cd66-aa65-4fe4-997d-e294157b659d",
+    "user": "david@linagora.com",
+    "name": "Spam"
+  },
+  {
+    "id": "bed33628-44fc-4bda-a549-edb545dadda9",
+    "user": "david@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "a38c088d-74a8-4c5c-b12c-fe492ddb8ae1",
+    "user": "emma@linagora.com",
+    "name": "Clients"
+  },
+  {
+    "id": "72b9a0e6-8d03-41c5-9e28-89b8e3e586cd",
+    "user": "emma@linagora.com",
+    "name": "Updates"
+  },
+  {
+    "id": "6e760363-9940-4658-817d-9b21e7c8d221",
+    "user": "emma@linagora.com",
+    "name": "Work"
+  },
+  {
+    "id": "968c443b-0390-43b4-8713-57dff1707b55",
+    "user": "emma@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "0bc744fb-7ede-4266-a29a-61b1ff0c85f7",
+    "user": "emma@linagora.com",
+    "name": "Sent"
+  },
+  {
+    "id": "3758a849-1e82-4f3d-b226-36843f6a4484",
+    "user": "emma@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "3e7a3ace-fdbb-454f-9b72-63b40ce0161d",
+    "user": "emma@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "fe2cc0de-ceb8-484c-b138-c529e99db019",
+    "user": "emma@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "2002bcf3-d135-4ead-8697-a9e8425c1a3d",
+    "user": "emma@linagora.com",
+    "name": "Spam"
+  },
+  {
+    "id": "9e19e035-4749-4ff6-a49a-9c2a36aca7e1",
+    "user": "emma@linagora.com",
+    "name": "Support"
+  },
+  {
+    "id": "2edcdcd3-53fb-439b-ab4f-392fbd685247",
+    "user": "emma@linagora.com",
+    "name": "Reports"
+  },
+  {
+    "id": "422734b2-6560-48d4-bcce-c026fcb54c85",
+    "user": "emma@linagora.com",
+    "name": "Marketing"
+  },
+  {
+    "id": "e2f026b4-eb21-4c21-aeb6-f55b37f2e675",
+    "user": "emma@linagora.com",
+    "name": "Social"
+  },
+  {
+    "id": "2099fe5f-7955-45ab-a5a2-f0cc2f103f5d",
+    "user": "emma@linagora.com",
+    "name": "Newsletters"
+  },
+  {
+    "id": "99346bc7-d0fd-4ca8-879c-4eceb485bdc1",
+    "user": "frank@linagora.com",
+    "name": "Clients"
+  },
+  {
+    "id": "327f8f64-997f-4688-b00f-e5ccec584bd8",
+    "user": "frank@linagora.com",
+    "name": "Archive"
+  },
+  {
+    "id": "2ec0dd31-3ddb-463e-8079-3b430e5ea0ba",
+    "user": "frank@linagora.com",
+    "name": "Promotions"
+  },
+  {
+    "id": "b0562d4d-9249-4114-b544-637d4faec1f0",
+    "user": "frank@linagora.com",
+    "name": "Social"
+  },
+  {
+    "id": "8d3036a6-8b0f-4a45-a54a-7bfcc2bfed61",
+    "user": "frank@linagora.com",
+    "name": "Work"
+  },
+  {
+    "id": "daf5bfb9-9eaa-4d1a-a89f-7889aa586849",
+    "user": "frank@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "bc6045c4-2942-41b4-ba57-d3001be0ab50",
+    "user": "frank@linagora.com",
+    "name": "Spam"
+  },
+  {
+    "id": "66903d53-75d2-47b2-a9ce-75543064e0c4",
+    "user": "frank@linagora.com",
+    "name": "Newsletters"
+  },
+  {
+    "id": "c520cf62-c510-4b7e-838e-5e7db918d8e6",
+    "user": "frank@linagora.com",
+    "name": "Marketing"
+  },
+  {
+    "id": "f27e9d1d-0c31-4b19-b148-df0bfa188c8f",
+    "user": "frank@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "d90c994d-7fbd-4f5a-b206-617fdb88389c",
+    "user": "frank@linagora.com",
+    "name": "Sent"
+  },
+  {
+    "id": "e5f3bcb3-98a8-46f9-add7-3af2d6af1c76",
+    "user": "frank@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "be4d0ffc-92db-4ad6-a29e-e5db38759ac0",
+    "user": "grace@linagora.com",
+    "name": "Personal"
+  },
+  {
+    "id": "3e4f5a92-7eb7-4430-b38e-14f64cb90286",
+    "user": "grace@linagora.com",
+    "name": "Archive"
+  },
+  {
+    "id": "60eb88ed-1707-4ef5-9379-a361c212328a",
+    "user": "grace@linagora.com",
+    "name": "Marketing"
+  },
+  {
+    "id": "c27e660b-6924-4bb7-9b33-86b4d0e5f629",
+    "user": "grace@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "6bdc2053-e909-4872-871d-ab95349eb172",
+    "user": "grace@linagora.com",
+    "name": "Receipts"
+  },
+  {
+    "id": "4679204a-6ca2-46b9-b5bf-4e9cbb4058a9",
+    "user": "grace@linagora.com",
+    "name": "Social"
+  },
+  {
+    "id": "9fc81d88-e15c-45fc-9b44-a4ec91f4ba42",
+    "user": "grace@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "ae8ffcee-85e7-4364-b335-1f7230125a00",
+    "user": "grace@linagora.com",
+    "name": "Clients"
+  },
+  {
+    "id": "8dfe395b-494b-4dc0-a30a-77721f736082",
+    "user": "grace@linagora.com",
+    "name": "Support"
+  },
+  {
+    "id": "d1685812-ed38-4ca6-8937-d1d0517bb39c",
+    "user": "grace@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "090a8791-8c0c-4bdd-bbb3-19f18f6553b3",
+    "user": "grace@linagora.com",
+    "name": "Updates"
+  },
+  {
+    "id": "e0fcd69b-690b-4fd2-b9a7-a7c4d4d2bcab",
+    "user": "grace@linagora.com",
+    "name": "Inbox"
+  },
+  {
+    "id": "eea70112-3ed4-4199-bf53-557fc1effc21",
+    "user": "grace@linagora.com",
+    "name": "Reports"
+  },
+  {
+    "id": "1341361b-adf1-4cef-a4e3-16506686de0f",
+    "user": "hugo@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "87178dc6-ed26-4345-b0ab-0deafcc817e9",
+    "user": "hugo@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "303e3ac6-4e31-4308-8dcb-122349d4d6b4",
+    "user": "hugo@linagora.com",
+    "name": "Receipts"
+  },
+  {
+    "id": "4f2d1679-ffcf-4f18-b292-6d01462391d2",
+    "user": "hugo@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "7d2ee2a6-9227-471a-ad74-a8ae1af8abb4",
+    "user": "hugo@linagora.com",
+    "name": "Work"
+  },
+  {
+    "id": "0d8bf570-e6f2-4911-b00a-471fc1908f35",
+    "user": "iris@linagora.com",
+    "name": "Projects"
+  },
+  {
+    "id": "b8d00c1d-1ef5-406c-a1b6-bde2bb627a4b",
+    "user": "iris@linagora.com",
+    "name": "Work"
+  },
+  {
+    "id": "5063ec7d-716b-4901-9904-4da7179778b4",
+    "user": "iris@linagora.com",
+    "name": "Support"
+  },
+  {
+    "id": "a50a65b1-8d10-45fe-a589-5154210f3436",
+    "user": "iris@linagora.com",
+    "name": "Finance"
+  },
+  {
+    "id": "9d606d4d-3a95-451c-8bf0-7a70cdd2908c",
+    "user": "iris@linagora.com",
+    "name": "Marketing"
+  },
+  {
+    "id": "3dc1dc4f-6b36-4a56-98ad-d63996bcae09",
+    "user": "iris@linagora.com",
+    "name": "Drafts"
+  },
+  {
+    "id": "988fda95-ad26-43d4-87fe-739cb89e295d",
+    "user": "iris@linagora.com",
+    "name": "Spam"
+  },
+  {
+    "id": "15882d89-3d84-4b0f-b209-0d48ff2a8ba9",
+    "user": "iris@linagora.com",
+    "name": "Social"
+  },
+  {
+    "id": "7f921d23-321f-495f-8a94-2ae83a6e5bcd",
+    "user": "iris@linagora.com",
+    "name": "Trash"
+  },
+  {
+    "id": "fd41180c-8279-4fe7-9194-1b1b95aed0ff",
+    "user": "iris@linagora.com",
+    "name": "Receipts"
+  },
+  {
+    "id": "c0af219f-f19d-403c-b015-64fc1143fa61",
+    "user": "iris@linagora.com",
+    "name": "Promotions"
+  },
+  {
+    "id": "ab35b386-11cd-409e-9367-659723d16627",
+    "user": "iris@linagora.com",
+    "name": "Reports"
+  },
+  {
+    "id": "8e008f50-eebb-4dce-af44-0029be4bb4c7",
+    "user": "iris@linagora.com",
+    "name": "Updates"
+  },
+  {
+    "id": "ebbb2998-a079-48bb-b949-43fe42179f04",
+    "user": "iris@linagora.com",
+    "name": "Travel"
+  }
+]

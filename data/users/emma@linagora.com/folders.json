@@ -1,0 +1,58 @@
+[
+  {
+    "id": "a38c088d-74a8-4c5c-b12c-fe492ddb8ae1",
+    "name": "Clients"
+  },
+  {
+    "id": "72b9a0e6-8d03-41c5-9e28-89b8e3e586cd",
+    "name": "Updates"
+  },
+  {
+    "id": "6e760363-9940-4658-817d-9b21e7c8d221",
+    "name": "Work"
+  },
+  {
+    "id": "968c443b-0390-43b4-8713-57dff1707b55",
+    "name": "Drafts"
+  },
+  {
+    "id": "0bc744fb-7ede-4266-a29a-61b1ff0c85f7",
+    "name": "Sent"
+  },
+  {
+    "id": "3758a849-1e82-4f3d-b226-36843f6a4484",
+    "name": "Projects"
+  },
+  {
+    "id": "3e7a3ace-fdbb-454f-9b72-63b40ce0161d",
+    "name": "Trash"
+  },
+  {
+    "id": "fe2cc0de-ceb8-484c-b138-c529e99db019",
+    "name": "Finance"
+  },
+  {
+    "id": "2002bcf3-d135-4ead-8697-a9e8425c1a3d",
+    "name": "Spam"
+  },
+  {
+    "id": "9e19e035-4749-4ff6-a49a-9c2a36aca7e1",
+    "name": "Support"
+  },
+  {
+    "id": "2edcdcd3-53fb-439b-ab4f-392fbd685247",
+    "name": "Reports"
+  },
+  {
+    "id": "422734b2-6560-48d4-bcce-c026fcb54c85",
+    "name": "Marketing"
+  },
+  {
+    "id": "e2f026b4-eb21-4c21-aeb6-f55b37f2e675",
+    "name": "Social"
+  },
+  {
+    "id": "2099fe5f-7955-45ab-a5a2-f0cc2f103f5d",
+    "name": "Newsletters"
+  }
+]

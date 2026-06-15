@@ -1,0 +1,38 @@
+[
+  {
+    "id": "f729d07b-eebf-474d-a73e-110a5b7e4be5",
+    "name": "Inbox"
+  },
+  {
+    "id": "66618b4b-faa0-432d-888c-2eef4b742cc7",
+    "name": "Archive"
+  },
+  {
+    "id": "7a29df1e-dc89-4e8a-8834-c75272a6f1c3",
+    "name": "Reports"
+  },
+  {
+    "id": "37fe2f47-9cdd-47ad-b58d-d01bc844e01f",
+    "name": "Projects"
+  },
+  {
+    "id": "3fc9e99a-aab7-4a7f-90d7-a104e8d6a6f7",
+    "name": "Receipts"
+  },
+  {
+    "id": "9d3d8ca0-3b8d-4faa-8513-82f711484e64",
+    "name": "Drafts"
+  },
+  {
+    "id": "cd4d8601-da8e-4525-8c34-bc126f113854",
+    "name": "Trash"
+  },
+  {
+    "id": "a070da85-c717-4001-95e4-aa189b2b9e64",
+    "name": "Finance"
+  },
+  {
+    "id": "5ed26970-5284-4e55-ab8a-526d845d9b5a",
+    "name": "Updates"
+  }
+]
