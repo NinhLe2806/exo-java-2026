@@ -21,14 +21,6 @@ To stop it:
 docker compose down
 ```
 
-## Regenerating data
-
-```bash
-python3 generate_data.py
-```
-
-This produces 10 users with 5 to 15 folders each in the `data/` directory.
-
 ## Mock API endpoints
 
 ### GET /users
