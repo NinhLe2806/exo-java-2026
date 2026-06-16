@@ -7,13 +7,21 @@ This repository contains:
 
 The service fetches data from the mock API, compares per-user folders with the global folder list, and reports every discrepancy it finds.
 
+## Prerequisites
+
+- JDK 21
+- Docker with Docker Compose
+- `curl` or another HTTP client for manual testing
+
+Maven does not need to be installed separately. The repository includes Maven wrapper scripts (`mvnw` and `mvnw.cmd`) that download and run Maven on first use, so the first Maven command requires internet access.
+
 ## Running the mock API
 
 ```bash
 docker compose up -d
 ```
 
-The service is available at `http://localhost:8080`.
+The mock API is available at `http://localhost:8080`.
 
 To stop it:
 
@@ -50,9 +58,25 @@ curl http://localhost:8080/users/john@linagora.com/folders
 ]
 ```
 
+### GET /folders
+
+Returns all folders across all users.
+
+```bash
+curl http://localhost:8080/folders
+```
+
+```json
+[
+  {"id": "9d68e13e-fa7e-476e-b4d0-a80aec399be2", "user": "john@linagora.com", "name": "Trash"},
+  {"id": "ef17f006-a454-46ee-8ab8-8fa13629797c", "user": "john@linagora.com", "name": "Inbox"}
+]
+```
+
 ## Running the consistency checker
 
 The checker runs on port `8081` by default and calls the mock API at `http://localhost:8080`.
+Keep the mock API running, then start the checker in another terminal.
 
 On Windows:
 
@@ -68,14 +92,30 @@ sh ./mvnw spring-boot:run
 
 To override the mock API URL:
 
+On Windows:
+
 ```bash
 .\mvnw.cmd spring-boot:run -Dspring-boot.run.arguments="--mock-api.base-url=http://localhost:8080"
 ```
 
+On Linux/macOS:
+
+```bash
+sh ./mvnw spring-boot:run -Dspring-boot.run.arguments="--mock-api.base-url=http://localhost:8080"
+```
+
 Build and test:
+
+On Windows:
 
 ```bash
 .\mvnw.cmd test
+```
+
+On Linux/macOS:
+
+```bash
+sh ./mvnw test
 ```
 
 ## Consistency checker endpoint
@@ -140,18 +180,3 @@ Response fields:
 - Calls to the mock API are non-blocking.
 - User folder calls are executed concurrently with a bounded concurrency of 8.
 - No dataset values are hardcoded in the service.
-
-### GET /folders
-
-Returns all folders across all users.
-
-```bash
-curl http://localhost:8080/folders
-```
-
-```json
-[
-  {"id": "9d68e13e-fa7e-476e-b4d0-a80aec399be2", "user": "john@linagora.com", "name": "Trash"},
-  {"id": "ef17f006-a454-46ee-8ab8-8fa13629797c", "user": "john@linagora.com", "name": "Inbox"}
-]
-```
